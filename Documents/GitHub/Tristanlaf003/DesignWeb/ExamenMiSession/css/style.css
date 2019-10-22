@@ -1,0 +1,176 @@
+/* examen de mi-session*/
+/*Programmé par Tristan Lafontaine*/
+/*Le 8 octobre 2019*/
+/*Index*/
+html, body{
+font-size: 10px;
+    margin: 0;
+    height: 100%;
+}
+li{
+    font-size: 2rem;
+}
+/*Navbar*/
+
+.noir{
+    background-color: black;
+}
+.blanc{
+    color: white;
+    font-size: 2rem;
+}
+.icone{
+    height: 3rem;
+    width: 3rem;
+    margin-right: 20px;
+}
+
+}
+.grosseur{
+    font-size: 2rem;
+}
+/*Deuxième section*/
+.parallax{
+    background-image: url("../img/bostonDynamics.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg{
+    background-color: white;
+    opacity: 0.75;
+    position: relative;
+    bottom: 400px;
+    left: 400px;
+}
+.bg2{
+    background-color: white;
+    opacity: 0.75;
+    position: relative;
+    bottom: 500px;
+    left: 400px;
+}
+.margin3{
+    margin-top: 100px;
+}
+
+/*Troisième section*/
+.parallax2 {
+    background-image: url("../img/iss-station.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white{
+    color: white;
+    text-align: center;
+    margin-bottom: 500px;
+}
+
+/*Quatrième section*/
+.fa-facebook{
+    color: black;
+    font-size: 30px;
+    margin-right: 20px;
+}
+.fa-instagram{
+    color: black;
+    font-size: 30px;
+    margin-right: 20px;
+}
+.fa-twitter {
+    color: black;
+    font-size: 30px;
+    margin-right: 20px;
+}
+.margin2{
+    margin-top: 10px;
+    margin-right: 25px;
+}
+
+
+
+
+@media only screen and (max-width: 480px){
+   .parallax2{
+       background-image: url("../img/iss.png");
+   }
+    .margin{
+        margin-top: 30px;
+    }
+    .bg{
+        background-color: white;
+        opacity: 0.75;
+        position: relative;
+        bottom: 450px;
+        left: 1px;
+    }
+    .bg2{
+        background-color: white;
+        opacity: 0.75;
+        position: relative;
+        bottom: 525px;
+        left: 1px;
+    }
+}
+/* TABLETTES */
+@media screen and (min-width: 481px) and (max-width: 1199px) {
+    .parallax2{
+        background-image: url("../img/roket.jpg");
+    }
+    .bg{
+        background-color: white;
+        opacity: 0.75;
+        position: relative;
+        bottom: 450px;
+        left: 1px;
+    }
+    .bg2{
+        background-color: white;
+        opacity: 0.75;
+        position: relative;
+        bottom: 600px;
+        left: 1px;
+    }
+}
+
+/*Page 2*/
+.parallax3{
+    background-image: url("../img/hololen2.png");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.white2{
+    color: white;
+    font-size: 5rem;
+}
+.barre{
+    position: relative;
+    bottom: 20px;
+    padding-top: 30px;
+}
+.white3{
+    color: white;
+}
+p{
+    font-size: 1.5rem;
+}
+.li2{
+    font-size: 1.5rem;
+}
+.arrondi{
+    border-radius: 20px;
+}
+.margin4{
+    margin-top: 30px;
+}
+.margin5{
+    margin-bottom: 30px;
+}

@@ -1,0 +1,29 @@
+html, body{
+    height: 100%;
+    font-size: 10px;
+    margin: 0;
+}
+.parallax{
+    background-image: url("../img/tigreVicto.jpg");
+    min-height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.jaune{
+    background: yellow;
+    opacity: 0.8;
+    left: 50rem;
+    top: 10rem
+}
+.background1{
+    background: lightgray;
+    opacity: 0.5;
+    top: 8.7rem;
+}
+h1 {
+    font-size: 10rem;
+}

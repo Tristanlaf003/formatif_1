@@ -1,0 +1,71 @@
+
+.computerModding{
+    text-align: center;
+    color: white ;
+    align-items: center;
+    padding-top: 200px;
+}
+.background{
+    background-image: url("../img/computex-17-inwinbot-mod.jpg");
+    height: 1292px;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1920px;
+}
+hr{
+    max-width: 50px;
+    border-width: 5px;
+    border-color: white;
+}
+h2{
+ text-align: center;
+ color: white;
+}
+button{
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.red{
+    color: white;
+    background-color: red;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.buttondeux{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.lienpournousrejoindre{
+    text-align: center;
+}
+.ligne{
+    max-width: 50px;
+    border-width: 5px;
+    border-color: red;
+}
+.fa-facebook{
+    color: blue;
+    font-size: 200px;
+
+}
+.fa-twitter{
+    color: blue;
+    font-size: 200px;
+}
+.fa-instagram{
+    font-size: 200px;
+    color: magenta;
+}
+.fa-reddit{
+    font-size: 200px;
+    color: red;
+}
+
+p{
+    font-size: 15px;
+}
