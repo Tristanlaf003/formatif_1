@@ -1,0 +1,38 @@
+html,body { margin:0; height:100%;}
+
+.boxGros{
+    overflow: hidden;
+}
+.box1{
+    background-image: url("../image/Volleyball.jpg");
+    height: 600px;
+    width: 300px;
+    margin-top: 20px;
+}
+.box2{
+    background-image: url("../image/baseball.jpg");
+    height: 600px;
+    width: 300px;
+    margin-top: 20px;
+    background-position: center;
+
+}
+.box3{
+    background-image: url("../image/hockey.jpg");
+    height: 600px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.bouton1{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.bouton2{
+     margin-top: 150px;
+     margin-left: 125px;
+ }
+.bouton3{
+    margin-top: 150px;
+    margin-left: 125px;
+}
