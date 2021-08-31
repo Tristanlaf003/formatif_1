@@ -1,0 +1,44 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="961" y="445" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="588" y="295" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="104" y="85" />
+    <location key="run.anything.popup.0.0.1920.1080@120dpi" x="531" y="233" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="279" y="84" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="824" y="213" />
+    <location key="search.everywhere.popup.0.0.1920.1080@120dpi" x="538" y="181" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080@120dpi" x="1104" y="203" />
+    <location key="FileChooserDialogImpl.1920.0.1600.900" x="2476" y="204" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080@120dpi" x="576" y="269" />
+    <location key="save.project.as.template.dialog.0.0.1920.1080@120dpi" x="796" y="399" />
+    <location key="save.file.as.template.dialog.0.0.1920.1080@120dpi" x="686" y="271" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1920.1080@120dpi" x="503" y="216" />
+    <location key="vcs.readOnlyHandler.ReadOnlyStatusDialog.0.0.1920.1080@120dpi" x="614" y="405" />
+    <location key="EditFileWatcherDialog.0.0.1920.1080@120dpi" x="506" y="239" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080@120dpi" x="654" y="0" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="556" y="184" />
+    <location key="NewPhpFileDialog.0.0.1920.1080@120dpi" x="755" y="419" />
+    <location key="#PHP.0.0.1920.1080@120dpi" x="595" y="4" />
+    <location key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#.0.0.1920.1080@120dpi" x="799" y="238" />
+    <location key="#index.php.0.0.1920.1080@120dpi" x="620" y="149" />
+    <location key="#Web_Browsers.0.0.1920.1080@120dpi" x="450" y="88" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080@120dpi" x="413" y="185" />
+    <location key="#Notifications.0.0.1920.1080@120dpi" x="451" y="88" />
+    <location key="NewPhpClassDialog.0.0.1920.1080@120dpi" x="660" y="284" />
+    <size key="search.everywhere.popup.0.0.1920.1080@120dpi" width="840" height="850" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1867" height="327" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080@120dpi" width="548" height="622" />
+    <size key="#com.jetbrains.php.debug.validation.PhpWebServerValidationDialog#.0.0.1920.1080@120dpi" width="710" height="579" />
+  </component>
+</application>

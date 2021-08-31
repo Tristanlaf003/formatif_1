@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\PhpstormProjects\DesignWeb\HelloWebWorld\.idea\HelloWebWorld.iml" timestamp="1566478099585" />
+    <file path="C:\Users\Tristan\PhpstormProjects\DesignWeb\HelloWebWorld\.idea\misc.xml" timestamp="1566478099617" />
+    <file path="C:\Users\Tristan\PhpstormProjects\DesignWeb\HelloWebWorld\.idea\modules.xml" timestamp="1566478099631" />
+    <file path="C:\Users\Tristan\PhpstormProjects\DesignWeb\HelloWebWorld\.idea\workspace.xml" timestamp="1567704550436" />
+  </project-files>
+</conversion>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\ExamenFinal\.idea\ExamenFinal.iml" timestamp="1575386943443" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\ExamenFinal\.idea\misc.xml" timestamp="1575386943484" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\ExamenFinal\.idea\modules.xml" timestamp="1575386943526" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\ExamenFinal\.idea\vcs.xml" timestamp="1575386943506" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\ExamenFinal\.idea\watcherTasks.xml" timestamp="1575387125868" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\ExamenFinal\.idea\workspace.xml" timestamp="1579788203050" />
+  </project-files>
+</conversion>
+

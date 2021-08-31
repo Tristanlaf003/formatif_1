@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre3\boucle\.idea\boucle.iml" timestamp="1568032002000" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre3\boucle\.idea\misc.xml" timestamp="1568032002000" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre3\boucle\.idea\modules.xml" timestamp="1568032002000" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre3\boucle\.idea\vcs.xml" timestamp="1568412062000" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre3\boucle\.idea\workspace.xml" timestamp="1568426403357" />
+  </project-files>
+</conversion>
+

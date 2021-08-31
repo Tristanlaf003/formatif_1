@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\WorldSeries\.idea\WorldSeries.iml" timestamp="1572543576259" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\WorldSeries\.idea\misc.xml" timestamp="1572543576322" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\WorldSeries\.idea\modules.xml" timestamp="1572543576375" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\WorldSeries\.idea\vcs.xml" timestamp="1572543576352" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\WorldSeries\.idea\workspace.xml" timestamp="1572545739949" />
+  </project-files>
+</conversion>
+

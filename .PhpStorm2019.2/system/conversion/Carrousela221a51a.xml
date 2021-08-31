@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Desktop\Carrousel\.idea\Carrousel.iml" timestamp="1569019304000" />
+    <file path="C:\Users\Tristan\Desktop\Carrousel\.idea\misc.xml" timestamp="1569019304000" />
+    <file path="C:\Users\Tristan\Desktop\Carrousel\.idea\modules.xml" timestamp="1569019304000" />
+    <file path="C:\Users\Tristan\Desktop\Carrousel\.idea\workspace.xml" timestamp="1569351036770" />
+  </project-files>
+</conversion>
+

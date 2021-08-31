@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Program Files\Ampps\www\test\..\remise_lafontainetristan\.idea\remise_lafontainetristan.iml" timestamp="1582560160234" />
+    <file path="C:\Program Files\Ampps\www\test\.idea\modules.xml" timestamp="1582560160274" />
+  </project-files>
+</conversion>
+

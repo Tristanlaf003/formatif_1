@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\flappy\FlappyBird\..\FlappyBird\.idea\BallDestructif.iml" timestamp="1576089566023" />
+    <file path="C:\Users\Tristan\Documents\GitHub\flappy\FlappyBird\.idea\misc.xml" timestamp="1576088919544" />
+    <file path="C:\Users\Tristan\Documents\GitHub\flappy\FlappyBird\.idea\modules.xml" timestamp="1576089566034" />
+    <file path="C:\Users\Tristan\Documents\GitHub\flappy\FlappyBird\.idea\vcs.xml" timestamp="1576088919562" />
+    <file path="C:\Users\Tristan\Documents\GitHub\flappy\FlappyBird\.idea\workspace.xml" timestamp="1576090700235" />
+  </project-files>
+</conversion>
+

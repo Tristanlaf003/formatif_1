@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre2\.idea\Chapitre2.iml" timestamp="1567080075685" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre2\.idea\misc.xml" timestamp="1567080075713" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre2\.idea\modules.xml" timestamp="1567080075728" />
+    <file path="C:\Users\Tristan\PhpstormProjects\Programmation1\Chapitre2\.idea\workspace.xml" timestamp="1567730172031" />
+  </project-files>
+</conversion>
+

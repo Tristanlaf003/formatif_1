@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Parralax\.idea\Parralax.iml" timestamp="1569504489053" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Parralax\.idea\misc.xml" timestamp="1569504489071" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Parralax\.idea\modules.xml" timestamp="1569504489092" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Parralax\.idea\vcs.xml" timestamp="1569504489082" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Parralax\.idea\workspace.xml" timestamp="1574370983613" />
+  </project-files>
+</conversion>
+

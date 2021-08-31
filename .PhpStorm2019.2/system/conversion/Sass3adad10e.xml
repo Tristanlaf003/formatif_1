@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Sass\.idea\Sass.iml" timestamp="1574793137359" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Sass\.idea\misc.xml" timestamp="1574793137407" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Sass\.idea\modules.xml" timestamp="1574793137448" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Sass\.idea\vcs.xml" timestamp="1574793137424" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Sass\.idea\watcherTasks.xml" timestamp="1574793834757" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Sass\.idea\workspace.xml" timestamp="1576159448522" />
+  </project-files>
+</conversion>
+

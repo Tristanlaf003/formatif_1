@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen2\CommandeThai\.idea\CommandeThai.iml" timestamp="1571673406684" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen2\CommandeThai\.idea\misc.xml" timestamp="1571673406713" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen2\CommandeThai\.idea\modules.xml" timestamp="1571673406724" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen2\CommandeThai\.idea\vcs.xml" timestamp="1571673411159" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen2\CommandeThai\.idea\workspace.xml" timestamp="1571675042295" />
+  </project-files>
+</conversion>
+

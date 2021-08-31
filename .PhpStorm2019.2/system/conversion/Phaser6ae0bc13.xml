@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Desktop\Phaser\.idea\Phaser.iml" timestamp="1575897378620" />
+    <file path="C:\Users\Tristan\Desktop\Phaser\.idea\misc.xml" timestamp="1575897378645" />
+    <file path="C:\Users\Tristan\Desktop\Phaser\.idea\modules.xml" timestamp="1575897378653" />
+    <file path="C:\Users\Tristan\Desktop\Phaser\.idea\workspace.xml" timestamp="1575903475133" />
+  </project-files>
+</conversion>
+

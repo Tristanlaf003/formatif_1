@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\formatif2\.idea\formatif2.iml" timestamp="1571935912516" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\formatif2\.idea\misc.xml" timestamp="1571935912547" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\formatif2\.idea\modules.xml" timestamp="1571935912573" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\formatif2\.idea\vcs.xml" timestamp="1571935912562" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\formatif2\.idea\workspace.xml" timestamp="1572264555120" />
+  </project-files>
+</conversion>
+

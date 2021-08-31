@@ -1,0 +1,173 @@
+<application>
+  <component name="FeatureUsageStatistics" first-run="1566477924188" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="56" last-shown="0" last-used="1580745652093" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="31" last-shown="0" last-used="1582560133186" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="8784" last-shown="1583763470691" last-used="1583773751963" shown-count="119" />
+    <feature id="switcher" count="2" last-shown="0" last-used="1571958328849" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console.run.intention" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console.execute" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="1" last-shown="0" last-used="1567080279198" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="22" last-shown="0" last-used="1582209526068" shown-count="0" />
+    <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="16" last-shown="0" last-used="1579800770232" shown-count="0" />
+    <feature id="navigation.goto.implementation" count="3" last-shown="0" last-used="1579889260436" shown-count="0" />
+    <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="6" last-shown="0" last-used="1575680146626" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="4" last-shown="0" last-used="1582209621734" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="6" last-shown="0" last-used="1575305997473" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.table.editor.wrapper" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="9239" last-shown="0" last-used="1583773751966" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.postfix" count="1" last-shown="0" last-used="1574969689204" shown-count="0" />
+    <feature id="diagram.show.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="376" last-shown="0" last-used="1583767052672" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassist.inspect.batch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.table.editor" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="45034" />
+      <option name="invocations" value="8018" />
+      <option name="startDate" value="1566446400000" />
+      <option name="dayCount" value="88" />
+      <option name="lastDate" value="1583726400000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="4" />
+      <option name="startDate" value="1566446400000" />
+      <option name="dayCount" value="3" />
+      <option name="lastDate" value="1580706000000" />
+    </fixesStatsTag>
+  </component>
+  <component name="PhpLanguageFeatureUsagesStatistics">
+    <project hash="9457c498" />
+    <project hash="529982ed" />
+    <project hash="648999c5" />
+    <project hash="2134f3a1" />
+    <project hash="81c8916a" />
+    <project hash="b4ba30c8" />
+    <project hash="ed2c663d" />
+    <project hash="ed2c663e" />
+    <project hash="2bec2fdf" />
+    <project hash="55223f66" />
+    <project hash="79a0895c" />
+    <project hash="3ae9e052" />
+    <project hash="19c1ec0c" />
+    <project hash="3adad10e" />
+    <project hash="734ef15e" />
+    <project hash="48913d5b" />
+    <project hash="2c2c50a6" />
+    <project hash="b9b1dbac" />
+    <project hash="7002d0f6" />
+    <project hash="c594c076" />
+    <project hash="76a9a0f3" />
+    <project hash="c66a3fa2" />
+    <project hash="3f0f2e6f" />
+    <project hash="f32dd442" />
+    <project hash="c66a3fa1" />
+    <project hash="cbd4e199" />
+    <project hash="e71111ce" />
+    <project hash="b110f6b5" />
+    <project hash="f210c773" />
+    <project hash="96dae4" />
+    <project hash="d4d277aa" />
+    <project hash="28d858b1" />
+    <project hash="dc5eb46a" />
+    <project hash="c69d09ee" />
+    <project hash="3237d758">
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="f114ec5a" />
+    <project hash="2030e6cd" />
+    <project hash="449f1811" />
+    <project hash="dbd2f4bd" />
+    <project hash="b6b90152" />
+    <project hash="21e9fe91" />
+    <project hash="3d3aece2" />
+    <project hash="dd924fe1" />
+    <project hash="f50bcd9b" />
+    <project hash="7f2948df" />
+    <project hash="6ed6fe3" />
+    <project hash="3cf27660" />
+    <project hash="3131edd8">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="d06f516e" />
+    <project hash="2cd9881c" />
+    <project hash="8539308d" />
+    <project hash="7f602cdc" />
+    <project hash="9cf59f12">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+    </project>
+    <project hash="22d18f2c" />
+    <project hash="afbfb774" />
+    <project hash="be851c89" />
+    <project hash="bad30995" />
+    <project hash="dad7513b" />
+    <project hash="37d053c0" />
+    <project hash="a221a51a" />
+    <project hash="40068140" />
+    <project hash="8696dcf3" />
+    <project hash="e0f1627e" />
+    <project hash="6ae0bc13" />
+    <project hash="ab6337cd" />
+    <project hash="75a4fb2c" />
+    <project hash="e302a69b" />
+    <project hash="b95c684f" />
+    <project hash="fd6f9952" />
+    <project hash="2b851d73" />
+    <project hash="74b58dc8" />
+    <project hash="83972272" />
+    <project hash="3f974c4a" />
+    <project hash="df1418c2" />
+    <project hash="b0d46d0d" />
+    <project hash="d75db8db" />
+  </component>
+</application>

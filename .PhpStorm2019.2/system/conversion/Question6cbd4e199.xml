@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen\Question6\.idea\Question6.iml" timestamp="1569242391403" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen\Question6\.idea\misc.xml" timestamp="1569242391467" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen\Question6\.idea\modules.xml" timestamp="1569242391524" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen\Question6\.idea\vcs.xml" timestamp="1569242391498" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\Programmation1\Examen\Question6\.idea\workspace.xml" timestamp="1569251559764" />
+  </project-files>
+</conversion>
+

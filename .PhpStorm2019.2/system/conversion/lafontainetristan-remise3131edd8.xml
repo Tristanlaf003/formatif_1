@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Program Files\Ampps\www\lafontainetristan-remise\.idea\gagnonannie-remise.iml" timestamp="1580744868610" />
+    <file path="C:\Program Files\Ampps\www\lafontainetristan-remise\.idea\jsLibraryMappings.xml" timestamp="1580744868629" />
+    <file path="C:\Program Files\Ampps\www\lafontainetristan-remise\.idea\misc.xml" timestamp="1579549272000" />
+    <file path="C:\Program Files\Ampps\www\lafontainetristan-remise\.idea\modules.xml" timestamp="1579549272000" />
+    <file path="C:\Program Files\Ampps\www\lafontainetristan-remise\.idea\php.xml" timestamp="1579549314000" />
+    <file path="C:\Program Files\Ampps\www\lafontainetristan-remise\.idea\workspace.xml" timestamp="1581007404257" />
+  </project-files>
+</conversion>
+

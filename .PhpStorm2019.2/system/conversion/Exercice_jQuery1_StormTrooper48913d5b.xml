@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Exercice jQuery1 StormTrooper\.idea\Exercice jQuery1 StormTrooper.iml" timestamp="1571763025169" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Exercice jQuery1 StormTrooper\.idea\misc.xml" timestamp="1571763025200" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Exercice jQuery1 StormTrooper\.idea\modules.xml" timestamp="1571763025213" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Exercice jQuery1 StormTrooper\.idea\vcs.xml" timestamp="1571763042112" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\Exercice jQuery1 StormTrooper\.idea\workspace.xml" timestamp="1572025660409" />
+  </project-files>
+</conversion>
+

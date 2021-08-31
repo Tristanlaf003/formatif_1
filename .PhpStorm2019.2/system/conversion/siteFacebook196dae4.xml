@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\siteFacebook1\..\siteFacebook\.idea\siteFacebook.iml" timestamp="1568894635318" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\siteFacebook1\.idea\modules.xml" timestamp="1568894635340" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\siteFacebook1\.idea\vcs.xml" timestamp="1568912926457" />
+    <file path="C:\Users\Tristan\Documents\GitHub\Tristanlaf003\DesignWeb\siteFacebook1\.idea\workspace.xml" timestamp="1569006150187" />
+  </project-files>
+</conversion>
+
